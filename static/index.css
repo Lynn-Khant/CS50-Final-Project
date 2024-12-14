@@ -1,0 +1,118 @@
+.main-title{
+    text-align: center;
+    margin-top: 50px;
+    color: #54B4D3;
+}
+.present-week{
+    text-align: center;
+    font-size: 15px;
+    color: green;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+#logout{
+    margin-left: 1100px;
+}
+#create{
+    margin-left: 20px;
+}
+#create-form{
+    width: 350px;
+    height: 270px;
+    margin: 70px auto;
+    background-color: #54B4D3;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#create-form form div{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+#create-form form div input{
+    height: 25px;
+}
+#create-form-title{
+    text-align: center;
+    margin-top: 50px;
+}
+#create-form form button{
+    margin-left: 130px;
+    margin-top: 5px;
+}
+
+#update-form{
+    width: 350px;
+    height: 400px;
+    margin: 70px auto;
+    background-color: #54B4D3;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#update-form form div{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+#update-button{
+    margin-left: 120px;
+    margin-top: 20px;
+}
+#update-form-title{
+    text-align: center;
+    margin-top: 50px;
+}
+
+#login-form{
+    width: 350px;
+    height: 250px;
+    margin: 70px auto;
+    background-color: #54B4D3;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#login-form form div{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+#submit-button{
+    margin-left: 90px;
+}
+#login-form-title{
+    text-align: center;
+    margin-top: 50px;
+}
+
+#register-form{
+    width: 350px;
+    height: 350px;
+    margin: 70px auto;
+    background-color: #54B4D3;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#register-form form div{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+#register-button{
+    margin-left: 100px;
+    margin-top: 30px;
+}
+#register-form-title{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.weeks-dropdown{
+    width:300px;
+    margin: auto;
+}
+
+
